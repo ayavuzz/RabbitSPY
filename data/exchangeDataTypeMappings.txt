@@ -1,0 +1,1 @@
+fanout-exchange-somedata:SomeData-schema
